@@ -98,7 +98,7 @@
 
 ### 同步 Fork 后的代码
 
-#### 手动同步
+#### 手 动同步
 
 [手动同步 https://blog.blueskyclouds.com/jsfx/58.html](https://blog.blueskyclouds.com/jsfx/58.html)
 
